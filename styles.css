@@ -49,6 +49,10 @@ body {
   word-break: break-word;
 }
 
+.data-item-container:hover .data-item-header .title {
+  color: black;
+}
+
 .badge {
   position: absolute;
   background-color: #fca311;
